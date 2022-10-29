@@ -12,6 +12,4 @@ This needs to update.
 
 ---
 ### Author Info:
-- Email : [jagatabhay@gmail.com](jagatabhay@gmail.com)
-- [![Linkedin](https://github.com/jagatabhay/TSAI/blob/master/logo.png)](https://www.linkedin.com/in/jagatnandan-prasad-240042129/)
-- [![Github](https://github.com/jagatabhay/TSAI/blob/master/S13/githublogo.png)](https://github.com/jagatabhay)
+
